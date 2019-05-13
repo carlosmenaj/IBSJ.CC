@@ -12,3 +12,5 @@ https://github.com/carlosmenaj/IBSJ.CC/projects/1#card-21458058
 
  
 embed src="https://doc.tiki.org/External-Wikis"
+
+This site was built using [GitHub Pages](https://pages.github.com/)
