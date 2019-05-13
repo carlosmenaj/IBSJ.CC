@@ -12,4 +12,4 @@ https://github.com/carlosmenaj/CADOCONBIM/issues/7#issue-439175837
 </head>
 <body><a href="https://github.com/carlosmenaj/CADOCONBIM/issues/7" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no,width=300,left=1,height=300,top=1'); return false;">Link con ventana</a></body>
 </html>
-PONGO ESTO PARA VER LO QUE HACE EL COMPAADOR
+PONGO ESTO PARA VER LO QUE HACE EL COMPARADOR
