@@ -8,7 +8,7 @@ https://github.com/carlosmenaj/CADOCONBIM/issues/7#issue-439175837
 
 <a href="https://github.com/carlosmenaj/CADOCONBIM/issues/7" target="_blank">Link con ventana</a>
 
-https://github.com/carlosmenaj/IBSJ.CC/projects/1#card-21458058
+[Entrada a Issue](https://github.com/carlosmenaj/IBSJ.CC/projects/1#card-21458058)
 
  
 embed src="https://doc.tiki.org/External-Wikis"
