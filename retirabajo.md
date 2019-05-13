@@ -5,3 +5,5 @@
 ![CADOCON BIM - MindMeister Mapa Mental - Google Chrome 30_4_2019 11_54_38 a  m](https://user-images.githubusercontent.com/44502116/56975507-f5f30680-6b3e-11e9-85ad-210eb94e0317.png)
 
 https://github.com/carlosmenaj/CADOCONBIM/issues/7#issue-439175837
+
+<tr> <td><iframe height="850" src="/wiki/tiki-index.php?page=entrando" width="1250"></iframe></td> </tr>
