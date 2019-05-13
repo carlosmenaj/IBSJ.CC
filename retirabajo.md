@@ -10,9 +10,5 @@ https://github.com/carlosmenaj/CADOCONBIM/issues/7#issue-439175837
 
 https://github.com/carlosmenaj/IBSJ.CC/projects/1#card-21458058
 
- <html>
-<head>
-	<title></title>
-</head>
-<body><iframe frameborder="1" height="300" scrolling="yes" src="https://doc.tiki.org/External-Wikis" width="300"></iframe></body>
-</html>
+ 
+embed src="https://doc.tiki.org/External-Wikis"
