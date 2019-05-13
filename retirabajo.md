@@ -6,4 +6,4 @@
 
 https://github.com/carlosmenaj/CADOCONBIM/issues/7#issue-439175837
 
-<a href="https://github.com/carlosmenaj/CADOCONBIM/issues/7" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no,width=300,left=1,height=300,top=1'); return false;">Link con ventana</a> 
+<a href="https://github.com/carlosmenaj/CADOCONBIM/issues/7" target="_blank">Link con ventana</a>
