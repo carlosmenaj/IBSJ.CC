@@ -13,4 +13,10 @@ https://github.com/carlosmenaj/IBSJ.CC/projects/1#card-21458058
  
 embed src="https://doc.tiki.org/External-Wikis"
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+This site was built using [Wiki Pages](http://www.quisqueyabiz.com/wiki/tiki-index.php?page=entrando)
+
+![La consejeria_ Como aconsejar biblicamente (John MacArthur La Biblioteca del Pastor) (Spanish Edition) - Google Chrome 10_5_2019 12_57_08 p  m](https://user-images.githubusercontent.com/44502116/57543823-74139200-7323-11e9-91b6-abd89496686d.png)
+
+[Entrada al libro](http://www.elolivo.net/LIBROS/MacArthur-LaConsejeria.pdf)
+
+
