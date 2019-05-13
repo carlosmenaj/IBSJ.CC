@@ -6,4 +6,4 @@
 
 https://github.com/carlosmenaj/CADOCONBIM/issues/7#issue-439175837
 
-<tr> <td><iframe height="850" src="/wiki/tiki-index.php?page=entrando" width="1250"></iframe></td> </tr>
+<a href="https://github.com/carlosmenaj/CADOCONBIM/issues/7" target="_blank">Link con ventana</a> 
