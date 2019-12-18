@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight 
 <br>Una l&iacute;nea.<br />
 &nbsp; &nbsp; Aqui va otra. 
 <br>OTRA SECCIÓN<br />
